@@ -12,3 +12,5 @@
 - fluttertoast: ^8.0.7 : It is used to display toast message
 - permission_handler: ^8.1.4+1: It is used to get runtime permission.
 - avatar_glow: ^2.0.1 : It is used to show pulse animation.
+
+Note: Find release apk in output_apk folder.
